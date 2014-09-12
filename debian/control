@@ -1,0 +1,13 @@
+Source: blankon-zfs
+Section: metapackages
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Standards-Version: 3.9.4
+Build-Depends: debhelper(>= 8), germinate
+
+Package: blankon-zfs
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Suggests: zfs-auto-snapshot
+Description: Native ZFS filesystem metapackage for BlankON.
