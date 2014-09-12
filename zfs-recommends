@@ -1,3 +1,4 @@
 build-essential
-linux-headers
+linux-headers-3.16-1-amd64 [amd64]
+linux-headers-3.16-1-686-pae [i386]
 zfsonlinux

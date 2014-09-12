@@ -10,4 +10,4 @@ Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Suggests: zfs-auto-snapshot
-Description: Native ZFS filesystem metapackage for BlankON.
+Description: Native ZFS filesystem metapackage for BlankOn.

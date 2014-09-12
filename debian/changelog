@@ -1,3 +1,9 @@
+blankon-zfs (7~wheezy+blankon2) tambora; urgency=medium
+
+  * Name Detail Kernel Headers 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 12 Sep 2014 10:13:29 +0700
+
 blankon-zfs (7~wheezy+blankon1) tambora; urgency=medium
 
   * Changes: to BlankOn 
